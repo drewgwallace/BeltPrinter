@@ -1,6 +1,7 @@
 # Benefits of Using DFU on the SKR Mini E3 V3
 
 Using DFU mode with the **SKR Mini E3 V3** allows reliable and convenient firmware flashing without requiring an ST-Link or USB mass-storage interface.  
+
 By installing the **Katapult bootloader**, you can simply **double-click the RESET button** to enter bootloader mode and flash firmware over a serial connection.
 
 ---

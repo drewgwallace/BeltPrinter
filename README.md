@@ -36,7 +36,7 @@ Located in: [`ideaMaker/Templates`](./ideaMaker/Templates)
 
 ### Mechanical
 - **Keep the belt tight** – Reduces belt slip and minimizes part movement during printing.
-- **Ensure the belt is level with the rollers** – Prevents tilt, uneven extrusion, and Z-drift.
+- **Ensure the belt is level with the rollers** – Keeps parts aligned as they leave the heated build surface and begin cooling before reaching the scraper.
 - **Minimize nozzle drag** – Helps avoid surface artifacts and improves part release.
 
 ### Reducing Drag, Consequential Effects

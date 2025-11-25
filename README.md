@@ -20,12 +20,12 @@ Macros designed to improve belt-printer workflow, reliability, and print quality
 
 ### 🖨️ IdeaMaker Tools & Calibration Guides
 
-- [Repetition Calibration](./ideaMaker/Repetition/README.md)  
+- [Repetition & Repetition Calibration](./ideaMaker/Repetition/README.md)  
 - [Customize G-Code Filename](./ideaMaker/Customize%20GCode%20Filename/README.md)  
 - [Gap Fill Visualization](./ideaMaker/Gap%20Fill/)  
 - [First Layer Speed Guide](./ideaMaker/First%20Layer%20Speed/)  
 
-#### 🗂 Templates
+### 🗂 Templates
 Located in: [`ideaMaker/Templates`](./ideaMaker/Templates)
 
 ### 🧱 BabyBelt Mods & Calibration Objects

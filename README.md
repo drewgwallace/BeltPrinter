@@ -3,6 +3,13 @@
 A collection of firmware, macros, IdeaMaker configurations, and printable mods for belt-style 3D printers (such as the BabyBeltPro).  
 This repository includes slicer tools, calibration methods, quality-of-life macros, and custom STL upgrades.
 
+<p align="center">
+  <video src="[https://github.com/drewgwallace/BeltPrinter/raw/refs/heads/main/timelapse.mp4](https://github.com/drewgwallace/BeltPrinter/raw/refs/heads/main/timelapse.mp4
+)" width="400" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ## 📁 Navigation
 
 ### 🧰 Firmware

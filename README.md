@@ -32,7 +32,7 @@ Located in: [`ideaMaker/Templates`](./ideaMaker/Templates)
 
 - [Printable Mods & Calibration STLs](./STL/)
 
-## 📝 Recommendations
+## 📝 Guiding Assumptions
 
 ### Mechanical
 - **Keep the belt tight** – Reduces belt slip and minimizes part movement during printing.

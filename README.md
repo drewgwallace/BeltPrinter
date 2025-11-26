@@ -3,9 +3,8 @@
 A collection of firmware, macros, IdeaMaker configurations, and printable mods for belt-style 3D printers (such as the BabyBeltPro).  
 This repository includes slicer tools, calibration methods, quality-of-life macros, and custom STL upgrades.
 
+<!-- ffmpeg -i timelapse.mp4 -vf "fps=15,scale=480 :-1:flags=lanczos" -lossless 1 -loop 0 timelapse.gif -->
 ![Timelapse](./timelapse.gif)
-
-
 
 ## 📁 Navigation
 

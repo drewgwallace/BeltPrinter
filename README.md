@@ -4,11 +4,12 @@ A collection of firmware, macros, IdeaMaker configurations, and printable mods f
 This repository includes slicer tools, calibration methods, quality-of-life macros, and custom STL upgrades.
 
 <p align="center">
-  <video src="[https://github.com/drewgwallace/BeltPrinter/raw/refs/heads/main/timelapse.mp4](https://github.com/drewgwallace/BeltPrinter/raw/refs/heads/main/timelapse.mp4
-)" width="400" controls>
+  <video controls style="max-width:100%; width:480px;">
+    <source src="https://github.com/drewgwallace/BeltPrinter/raw/refs/heads/main/timelapse.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
+
 
 ## 📁 Navigation
 

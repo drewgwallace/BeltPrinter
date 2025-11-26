@@ -42,4 +42,4 @@ Located in: [`ideaMaker/Templates`](./ideaMaker/Templates)
 ### Reducing Drag, Consequential Effects
 - **Use slightly higher print temperatures** – Lowers plastic resistance under the nozzle, reducing drag.
 - **Reduce print speeds** – Slower movement reduces the tensile pull on the molten filament as it exits the nozzle.
-- **Expect a lower extrusion multiplier (EM)** – educing flow helps avoid excess material that increases nozzle drag.
+- **Expect a lower extrusion multiplier (EM)** – Reducing flow helps avoid excess material that increases nozzle drag.

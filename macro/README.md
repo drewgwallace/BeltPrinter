@@ -1,4 +1,4 @@
-#macros_beltprinter.cfg
+# macros_beltprinter.cfg
 
 ```bash
 [include ...cfg] # Other includes not relevant here.

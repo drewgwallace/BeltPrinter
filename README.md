@@ -14,9 +14,10 @@ This repository includes slicer tools, calibration methods, quality-of-life macr
 ### ⚙️ Klipper Macros
 Macros designed to improve belt-printer workflow, reliability, and print quality.
 
-- [`belt_print_start`](./macro/belt_print_start.cfg) – Belt-optimized start sequence  
-- [`belt_print_end`](./macro/belt_print_end.cfg) – Managed end-of-print procedure  
 - [`belt_print_cancel`](./macro/belt_print_cancel.cfg) – Safe print cancellation  
+- [`belt_print_end`](./macro/belt_print_end.cfg) – Managed end-of-print procedure  
+- [`belt_print_resume`](./macro/belt_resume.cfg) – Belt-optimized resume sequence incorporating repetition
+- [`belt_print_start`](./macro/belt_print_start.cfg) – Belt-optimized start sequence  
 - [`belt_safe_park`](./macro/belt_safe_park.cfg) – Safely park the toolhead  
 - [`belt_set_offset`](./macro/belt_set_offset.cfg) – Determine and set Y-offset  
 - [`belt_validate_angle`](./macro/belt_validate_angle.cfg) – Verify printer angle matches slicer value  

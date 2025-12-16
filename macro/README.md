@@ -1,3 +1,6 @@
+#macros_beltprinter.cfg
+
+```bash
 [include ...cfg] # Other includes not relevant here.
 
 [include belt_control.cfg]
@@ -10,3 +13,4 @@
 [include belt_safe_park.cfg]
 [include belt_set_offset.cfg]
 [include belt_validate_angle.cfg]
+```
